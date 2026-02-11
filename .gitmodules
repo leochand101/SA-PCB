@@ -1,6 +1,6 @@
 [submodule "module/KicadParser"]
 	path = module/KicadParser
-	url = https://github.com/The-OpenROAD-Project/KicadParser.git
+	url = https://github.com/leochand101/KicadParser.git
 [submodule "module/--force"]
 	path = module/--force
-	url = https://github.com/The-OpenROAD-Project/KicadParser.git
+	url = https://github.com/leochand101/KicadParser.git
